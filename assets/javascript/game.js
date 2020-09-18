@@ -73,11 +73,3 @@ resetButton.addEventListener("click", function () {
 // body.style.backgroundColor = "rgb(" + red + ", " + blue + ", " + green + ")";
 
 // const name = prompt("enter your name");
-
-// if (name == "Michael") {
-//   alert("Meacham");
-// } else if (name == "Carl") {
-//   alert("Hanns");
-// } else {
-//   alert("dogs");
-// }
